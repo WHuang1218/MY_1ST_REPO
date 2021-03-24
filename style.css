@@ -1,0 +1,56 @@
+
+.topnav {
+    background-color: #F2C36B;
+    overflow: hidden;
+  }
+  
+ 
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+
+  .topnav a:hover {
+    background-color: #89BAD9;
+    color: #F29057;
+  }
+  
+
+  .topnav a.active {
+    background-color: #51718C;
+    color: white;
+  }
+  .inline-block {
+    padding: 30px;
+    display: inline-block;
+    margin: 10px;
+  }
+  .left {
+    float: left;
+    height: 500px;
+    background-color: #FFFFFF;
+    width: 30%;
+    text-align: center;
+  }
+  .right {
+    float: left;
+    background-color: #89BAD9;
+    height: auto;
+    width: 70%;
+    text-align: center;
+  }
+  
+  .card {
+    display: inline-block;
+    background-color: #C6C6C6;
+    border-radius: 5px;
+    height: 200px;
+    width: 300px;
+    margin: 35px;
+    margin-top: 50px;
+  }
