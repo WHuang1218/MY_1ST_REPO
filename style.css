@@ -10,7 +10,7 @@
     float: right;
     color: black;
     text-align: center;
-    padding: 14px 16px;
+    padding:20px;
     text-decoration: none;
     font-size: 17px;
     font-weight: bold;
@@ -35,7 +35,7 @@
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
   background-image: url("/Users/jasonhuang/Documents/My Code/AdobeStock_234194782 (2).jpg");
   /* Set a specific height */
-  height: 85%;
+  height: 80%;
 
 
   /* Position and center the image to scale nicely on all screens */
@@ -66,6 +66,12 @@
   color: whitesmoke;
 }
 
+.sub-header2 {
+  font-size: 30px;
+  padding:0;
+  margin: 0;
+  color: whitesmoke;
+}
 
 .button {
   width: 50%;
@@ -75,4 +81,13 @@
   padding: 10px;
   font-size: 16px;
   border-radius: 10px 10px 10px 10px;
+}
+
+
+.text{ 
+  margin: auto;
+  width: 80%;
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
 }
