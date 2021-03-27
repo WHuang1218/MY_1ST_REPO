@@ -4,8 +4,9 @@ body {
 }
 
 nav {
-    background-color: #F2F2F2);
+    background-color: #F2F2F2;
 }
+
 
 ul {
   display: flex;
@@ -118,3 +119,7 @@ li a:hover {
     margin-top: 20px;
 }
  
+.footer {
+    color:coral;
+}
+
